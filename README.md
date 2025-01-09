@@ -27,7 +27,7 @@ This firmware was designed for research purpose.
 
 ![terminator wirings](./image/wiring%20diagram.png)
 
-# FLASHING / UPLOADING
+# DOWNLOAD / UPLOADING
 
 ## Download firmware
 Just clone this repository, this firmware is `km0_km4_image2.bin`
@@ -46,4 +46,4 @@ Just clone this repository, this firmware is `km0_km4_image2.bin`
 
 ## Q&A
 
-For any questions, go to my Tiktok account @quyle2394 for supporting.
+For any questions, go to my Tiktok account @quyle2304 for supporting.
