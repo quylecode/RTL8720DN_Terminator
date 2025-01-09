@@ -44,6 +44,10 @@ Just clone this repository, this firmware is `km0_km4_image2.bin`
 9. Wait until the uploading completed
 10. Press RST or disconnect the board from power then connect it back.
 
+## Password firmware
+
+Password: 2304, time live: 5 minus.
+
 ## Q&A
 
 For any questions, go to my Tiktok account @quyle2304 for supporting.
